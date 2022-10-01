@@ -3,7 +3,7 @@
 A PyTorch implementation of CDFM for CTR prediction problem.
 
 ## Framework
-![image](https://github.com/naminshenren/TransHawkes/blob/master/transHAWKES.PNG)
+![image](https://github.com/naminshenren/CDFM/blob/master/other/CDFM_00.png)
 
 ## Usage
 
